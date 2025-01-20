@@ -1,0 +1,4 @@
+j'aimerais développer des mini jeux.
+Ces jeux seront développés à l'aide de JavaScript, Csharp, HTML et CSS.
+Les jeux seront animés et intuitifs.
+
